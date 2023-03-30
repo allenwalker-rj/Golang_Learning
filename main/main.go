@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // 全局变量，定义在函数外的变量
 var globe string = "这个是一个全局变量"
