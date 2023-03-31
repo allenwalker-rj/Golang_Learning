@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"test-go/day04/uinit1/crm/db"
-	"test-go/day04/uinit1/crm/util"
+	"test-go/day04/unit1/crm/db"
+	"test-go/day04/unit1/crm/util"
 )
 
 func main() {
